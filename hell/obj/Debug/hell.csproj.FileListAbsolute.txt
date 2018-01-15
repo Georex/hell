@@ -1,0 +1,6 @@
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\bin\Debug\hell.exe.config
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\bin\Debug\hell.exe
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\bin\Debug\hell.pdb
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\obj\Debug\hell.csprojResolveAssemblyReference.cache
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\obj\Debug\hell.exe
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\hell\hell\obj\Debug\hell.pdb
