@@ -10,7 +10,7 @@ namespace hell
     {
         static void Main(string[] args)
         {
-            int x=0;
+            int x=1;
         }
     }
 }
